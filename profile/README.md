@@ -15,10 +15,11 @@
 - 🔹 **Laravel** – Développement web avec le framework Laravel.  
 - 🔹 **Sécurité informatique** – Études et tests de sécurité des systèmes.  
 - 🔹 **Unity** – Développement de jeux et prototypes en C#.  
-- 🔹 **C++** – Projets et algorithmes en C++.  
-
+- 🔹 **C++** – Projets et algorithmes en C++.
+- 🔹 **Programmation répartie** – Projets et applications répartie (Client/Serveur, MQTT, RabbitMQ...).
+- 🔹 **HSR** – Répo des challenges du HSR.
 ## 📫 Me contacter  
-- 💼 **LinkedIn** : [Ton profil LinkedIn]  
-- 📧 **Email** : [Ton email pro]  
+- 💼 **LinkedIn** : https://www.linkedin.com/in/valentin-marot-a80267347/  
+- 📧 **Email** : contact@valentin-marot.fr
 
 N’hésite pas à explorer mes repositories et à me contacter pour toute opportunité professionnelle ! 🚀  
