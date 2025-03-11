@@ -5,7 +5,7 @@
 ## 📌 À propos de moi  
 - 💡 Enthousiaste en administration système, développement web et jeux vidéo.  
 - 📚 Toujours en quête d’apprentissage et d’optimisation.  
-- 🔍 Intéressé par la cybersécurité et les systèmes d’exploitation.  
+- 🔍 Intéressé par la cybersécurité, les systèmes d’exploitation, la virtualisation et le développement. 
 
 ## 📂 Mes principaux projets  
 
