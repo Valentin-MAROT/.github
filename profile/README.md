@@ -33,3 +33,4 @@ N’hésite pas à explorer mes repositories et à me contacter pour toute oppor
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Valentin-MAROT&repo=Cpp&card_width=320)](https://github.com/Valentin-MAROT/Cpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Valentin-MAROT&repo=HSR&card_width=320)](https://github.com/Valentin-MAROT/HSR)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentin-MAROT&layout=donut)](https://github.com/Valentin-MAROT/github-readme-stats)
