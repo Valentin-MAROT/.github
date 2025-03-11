@@ -13,7 +13,6 @@
 - 🔹 **Système d’exploitation** – Projets et expérimentations autour des mécanismes IPC.
 - 🔹 **Base de données** – Gestion et optimisation des bases de données.  
 - 🔹 **Laravel** – Développement web avec le framework Laravel.  
-- 🔹 **Sécurité informatique** – Études et tests de sécurité des systèmes.  
 - 🔹 **Unity** – Développement de jeux et prototypes en C#.  
 - 🔹 **C++** – Projets et algorithmes en C++.
 - 🔹 **Programmation répartie** – Projets et applications répartie (Client/Serveur, MQTT, RabbitMQ...).
