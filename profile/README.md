@@ -17,6 +17,7 @@
 - 🔹 **C++** – Projets et algorithmes en C++.
 - 🔹 **Programmation répartie** – Projets et applications répartie (Client/Serveur, MQTT, RabbitMQ...).
 - 🔹 **HSR** – Répo des challenges du HSR.
+- 🔹 **Virtualisation** – Tests et mise en place de machines virtuelles.
 ## 📫 Me contacter  
 - 💼 **LinkedIn** : https://www.linkedin.com/in/valentin-marot-a80267347/  
 - 📧 **Email** : contact@valentin-marot.fr
