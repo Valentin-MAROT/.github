@@ -10,7 +10,7 @@
 ## 📂 Mes principaux projets  
 
 - 🔹 **AdminSys** – Scripts et configurations pour l’administration système.  
-- 🔹 **Système d’exploitation** – Projets et expérimentations autour des OS.  
+- 🔹 **Système d’exploitation** – Projets et expérimentations autour des mécanismes IPC.
 - 🔹 **Base de données** – Gestion et optimisation des bases de données.  
 - 🔹 **Laravel** – Développement web avec le framework Laravel.  
 - 🔹 **Sécurité informatique** – Études et tests de sécurité des systèmes.  
