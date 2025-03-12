@@ -19,7 +19,7 @@
 - 🔹 **HSR** – Répo des challenges du HSR.
 - 🔹 **Virtualisation** – Tests et mise en place de machines virtuelles.
 ## 📫 Me contacter  
-- 💼 **LinkedIn** : https://www.linkedin.com/in/valentin-marot-a80267347/  
+- 💼 **LinkedIn** : https://www.linkedin.com/in/valentin-marot 
 - 📧 **Email** : contact@valentin-marot.fr
 
 N’hésite pas à explorer mes repositories et à me contacter pour toute opportunité professionnelle ! 🚀  
