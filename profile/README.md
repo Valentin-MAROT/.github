@@ -9,6 +9,13 @@
 
 ## 📂 Mes principaux projets  
 
+- 🔹 **Dashboard** – Dashboard financier (web + workers, sync bancaire).
+- 🔹 **Trading Agent** – Agent IA de trading (Binance + Telegram + OpenAI).
+- 🔹 **TheGarden Tournament** – Plateforme jeu (frontend/back + Redis + Postgres).
+- 🔹 **Vitrine** – Site vitrine déployé via NGINX (projet public).
+- 🔹 **Ordely** – Plateforme SaaS multi-tenant (site : https://www.ordely.fr).
+- 🔹 **Mail** – Stack mail (mention publique sans carte GitHub).
+- 🔹 **Zerobyte** – Sauvegarde/restauration avec interface web (image `ghcr.io/nicotsx/zerobyte`).
 - 🔹 **AdminSys** – Scripts et configurations pour l’administration système.  
 - 🔹 **Système d’exploitation** – Projets et expérimentations autour des mécanismes IPC.
 - 🔹 **Base de données** – Gestion et optimisation des bases de données.  
@@ -23,6 +30,11 @@
 - 📧 **Email** : contact@valentin-marot.fr
 
 N’hésite pas à explorer mes repositories et à me contacter pour toute opportunité professionnelle ! 🚀  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Valdragon4&repo=ThegardenTournament&card_width=320)](https://github.com/Valdragon4/ThegardenTournament)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Valdragon4&repo=Trading-agent&card_width=320)](https://github.com/Valdragon4/Trading-agent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Valdragon4&repo=Dashboard&card_width=320)](https://github.com/Valdragon4/Dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Valdragon4&repo=vitrine&card_width=320)](https://github.com/Valdragon4/vitrine)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Valentin-MAROT&repo=AdminSys&card_width=320)](https://github.com/Valentin-MAROT/AdminSys)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Valentin-MAROT&repo=Systeme-exploitation&card_width=320)](https://github.com/Valentin-MAROT/Systeme-exploitation)
